@@ -1,2 +1,2 @@
 # Trabalho-de-Linguagem-Funcional
-Trabalho feito na materia de Paradigmas de Programacao
+Trabalho que envolve um aplicacao web com linguagem  funcional feito na materia de Paradigmas de Programacao
